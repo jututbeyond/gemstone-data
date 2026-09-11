@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ruby",
+  "description": "Ruby is the red variety of the mineral corundum, with its color caused by trace chromium. It ranks among the hardest natural materials after diamond, and the finest specimens, prized for a vivid 'pigeon's blood' red, can rival diamonds in price per carat.",
+  "hardness": "9",
+  "detailImages": [
+    "https://i.etsystatic.com/43040704/r/il/374538/4966314761/il_794xN.4966314761_b1gk.jpg"
+  ],
+  "chemicalFormula": "Al2O3",
+  "crystalSystem": "Trigonal",
+  "refractiveIndex": "1.762–1.770",
+  "specificGravity": "4.00",
+  "luster": "Vitreous to adamantine",
+  "transparency": "Transparent to translucent",
+  "localities": [
+    "Myanmar",
+    "Mozambique",
+    "Sri Lanka",
+    "Thailand"
+  ],
+  "birthstoneMonths": [
+    7
+  ],
+  "zodiacSigns": [
+    "Cancer",
+    "Leo"
+  ],
+  "rarity": "Rare",
+  "careInstructions": "Durable for daily wear; clean with warm water and a soft brush. Avoid harsh chemicals."
+}

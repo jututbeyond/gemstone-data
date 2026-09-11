@@ -1,45 +1,18 @@
 {
-  "schemaVersion": 2,
-  "updatedAt": "2026-09-11T19:33:38.6693066Z",
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-11T21:45:00Z",
   "gemstones": [
     {
       "id": "amethyst",
       "name": "Amethyst TEST",
       "category": "Quartz",
       "shortDescription": "A purple variety of quartz prized since antiquity and the birthstone for February.",
-      "description": "Amethyst is the violet-to-purple variety of quartz, colored by trace amounts of iron and natural irradiation within its crystal structure. Once considered as precious as ruby and sapphire, large deposits discovered in Brazil during the 19th century made it widely affordable while preserving its popularity as a birthstone and meditative stone.",
       "colors": [
         "Purple",
         "Violet",
         "Lilac"
       ],
-      "hardness": "7",
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Amatista_Laye_2.jpg",
-      "detailImages": [
-        "https://clara.in/cdn/shop/products/xlgam3_1_1_600x.jpg?v=1625043938",
-        "https://i.etsystatic.com/9859922/r/il/98826f/1490616078/il_794xN.1490616078_suo7.jpg"
-      ],
-      "chemicalFormula": "SiO2",
-      "crystalSystem": "Trigonal",
-      "refractiveIndex": "1.544\u20131.553",
-      "specificGravity": "2.65",
-      "luster": "Vitreous",
-      "transparency": "Transparent",
-      "localities": [
-        "Brazil",
-        "Uruguay",
-        "Zambia",
-        "South Korea"
-      ],
-      "birthstoneMonths": [
-        2
-      ],
-      "zodiacSigns": [
-        "Pisces"
-      ],
-      "rarity": "Common",
-      "careInstructions": "Avoid prolonged sun exposure, which can fade its color. Clean with warm water and mild soap.",
-      "imageAttribution": "Example Photos / CC BY-SA",
       "tags": [
         "birthstone",
         "quartz-family",
@@ -51,37 +24,11 @@
       "name": "Ruby",
       "category": "Corundum",
       "shortDescription": "The red variety of corundum, one of the most valuable colored gemstones.",
-      "description": "Ruby is the red variety of the mineral corundum, with its color caused by trace chromium. It ranks among the hardest natural materials after diamond, and the finest specimens, prized for a vivid \u0027pigeon\u0027s blood\u0027 red, can rival diamonds in price per carat.",
       "colors": [
         "Red",
         "Pinkish Red"
       ],
-      "hardness": "9",
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corundum-215330.jpg/250px-Corundum-215330.jpg",
-      "detailImages": [
-        "https://i.etsystatic.com/43040704/r/il/374538/4966314761/il_794xN.4966314761_b1gk.jpg"
-      ],
-      "chemicalFormula": "Al2O3",
-      "crystalSystem": "Trigonal",
-      "refractiveIndex": "1.762\u20131.770",
-      "specificGravity": "4.00",
-      "luster": "Vitreous to adamantine",
-      "transparency": "Transparent to translucent",
-      "localities": [
-        "Myanmar",
-        "Mozambique",
-        "Sri Lanka",
-        "Thailand"
-      ],
-      "birthstoneMonths": [
-        7
-      ],
-      "zodiacSigns": [
-        "Cancer",
-        "Leo"
-      ],
-      "rarity": "Rare",
-      "careInstructions": "Durable for daily wear; clean with warm water and a soft brush. Avoid harsh chemicals.",
       "tags": [
         "birthstone",
         "corundum-family",

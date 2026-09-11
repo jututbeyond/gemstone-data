@@ -1,0 +1,31 @@
+{
+  "schemaVersion": 1,
+  "id": "amethyst",
+  "description": "Amethyst is the violet-to-purple variety of quartz, colored by trace amounts of iron and natural irradiation within its crystal structure. Once considered as precious as ruby and sapphire, large deposits discovered in Brazil during the 19th century made it widely affordable while preserving its popularity as a birthstone and meditative stone.",
+  "hardness": "7",
+  "detailImages": [
+    "https://clara.in/cdn/shop/products/xlgam3_1_1_600x.jpg?v=1625043938",
+    "https://i.etsystatic.com/9859922/r/il/98826f/1490616078/il_794xN.1490616078_suo7.jpg"
+  ],
+  "chemicalFormula": "SiO2",
+  "crystalSystem": "Trigonal",
+  "refractiveIndex": "1.544–1.553",
+  "specificGravity": "2.65",
+  "luster": "Vitreous",
+  "transparency": "Transparent",
+  "localities": [
+    "Brazil",
+    "Uruguay",
+    "Zambia",
+    "South Korea"
+  ],
+  "birthstoneMonths": [
+    2
+  ],
+  "zodiacSigns": [
+    "Pisces"
+  ],
+  "rarity": "Common",
+  "careInstructions": "Avoid prolonged sun exposure, which can fade its color. Clean with warm water and mild soap.",
+  "imageAttribution": "Example Photos / CC BY-SA"
+}

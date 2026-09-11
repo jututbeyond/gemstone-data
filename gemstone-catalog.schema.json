@@ -24,7 +24,7 @@
       "type": "object",
       "required": [
         "id", "name", "category", "shortDescription",
-        "description", "colors", "hardness", "imageUrl"
+        "description", "colors", "hardness", "thumbnailUrl"
       ],
       "properties": {
         "id": {
@@ -58,10 +58,15 @@
           "type": "string",
           "description": "Mohs scale value or range as a display string, e.g. '7' or '6.5–7.5'."
         },
-        "imageUrl": {
+        "thumbnailUrl": {
           "type": "string",
           "format": "uri",
-          "description": "URL to a representative photo. Host images on a CDN or static host alongside the JSON."
+          "description": "URL to a single representative image, shown in list/grid views. Host images on a CDN or static host alongside the JSON."
+        },
+        "detailImages": {
+          "type": "array",
+          "items": { "type": "string", "format": "uri" },
+          "description": "URLs of additional images shown on the gemstone's detail screen. May be empty."
         },
         "chemicalFormula": { "type": "string" },
         "crystalSystem": { "type": "string" },

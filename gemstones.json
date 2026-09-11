@@ -11,7 +11,7 @@
       "colors": ["Purple", "Violet", "Lilac"],
       "hardness": "7",
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Amatista_Laye_2.jpg",
-      "detailImageUrls": [
+      "detailImages": [
         "https://clara.in/cdn/shop/products/xlgam3_1_1_600x.jpg?v=1625043938",
         "https://i.etsystatic.com/9859922/r/il/98826f/1490616078/il_794xN.1490616078_suo7.jpg"
       ],
@@ -38,7 +38,7 @@
       "colors": ["Red", "Pinkish Red"],
       "hardness": "9",
       "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corundum-215330.jpg/250px-Corundum-215330.jpg",
-      "detailImageUrls": [
+      "detailImages": [
         "https://i.etsystatic.com/43040704/r/il/374538/4966314761/il_794xN.4966314761_b1gk.jpg"
       ],
       "chemicalFormula": "Al2O3",

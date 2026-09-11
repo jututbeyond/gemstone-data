@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-06-17T09:00:00Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-06-19T09:00:00Z",
   "gemstones": [
     {
       "id": "amethyst",
@@ -10,7 +10,11 @@
       "description": "Amethyst is the violet-to-purple variety of quartz, colored by trace amounts of iron and natural irradiation within its crystal structure. Once considered as precious as ruby and sapphire, large deposits discovered in Brazil during the 19th century made it widely affordable while preserving its popularity as a birthstone and meditative stone.",
       "colors": ["Purple", "Violet", "Lilac"],
       "hardness": "7",
-      "imageUrl": "https://example.com/images/amethyst.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Amatista_Laye_2.jpg",
+      "detailImageUrls": [
+        "https://clara.in/cdn/shop/products/xlgam3_1_1_600x.jpg?v=1625043938",
+        "https://i.etsystatic.com/9859922/r/il/98826f/1490616078/il_794xN.1490616078_suo7.jpg"
+      ],
       "chemicalFormula": "SiO2",
       "crystalSystem": "Trigonal",
       "refractiveIndex": "1.544–1.553",
@@ -33,7 +37,10 @@
       "description": "Ruby is the red variety of the mineral corundum, with its color caused by trace chromium. It ranks among the hardest natural materials after diamond, and the finest specimens, prized for a vivid 'pigeon's blood' red, can rival diamonds in price per carat.",
       "colors": ["Red", "Pinkish Red"],
       "hardness": "9",
-      "imageUrl": "https://example.com/images/ruby.jpg",
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corundum-215330.jpg/250px-Corundum-215330.jpg",
+      "detailImageUrls": [
+        "https://i.etsystatic.com/43040704/r/il/374538/4966314761/il_794xN.4966314761_b1gk.jpg"
+      ],
       "chemicalFormula": "Al2O3",
       "crystalSystem": "Trigonal",
       "refractiveIndex": "1.762–1.770",
@@ -46,28 +53,6 @@
       "rarity": "Rare",
       "careInstructions": "Durable for daily wear; clean with warm water and a soft brush. Avoid harsh chemicals.",
       "tags": ["birthstone", "corundum-family", "precious"]
-    },
-    {
-      "id": "opal",
-      "name": "Opal",
-      "category": "Organic / Amorphous Mineraloid",
-      "shortDescription": "A non-crystalline mineraloid famous for its play-of-color.",
-      "description": "Opal is a hydrated form of silica that lacks a crystal structure, classifying it as a mineraloid rather than a true mineral. Its signature play-of-color, flashes of rainbow hues that shift with viewing angle, comes from the diffraction of light through microscopic spheres of silica arranged within the stone.",
-      "colors": ["White", "Black", "Multicolor", "Fire Orange"],
-      "hardness": "5.5–6.5",
-      "imageUrl": "https://example.com/images/opal.jpg",
-      "chemicalFormula": "SiO2·nH2O",
-      "crystalSystem": "Amorphous",
-      "refractiveIndex": "1.450",
-      "specificGravity": "2.15",
-      "luster": "Vitreous to resinous",
-      "transparency": "Transparent to opaque",
-      "localities": ["Australia", "Ethiopia", "Mexico"],
-      "birthstoneMonths": [10],
-      "zodiacSigns": ["Libra", "Scorpio"],
-      "rarity": "Uncommon",
-      "careInstructions": "Contains water content; avoid extreme heat, dryness, or ultrasonic cleaners, which can cause cracking.",
-      "tags": ["birthstone", "mineraloid", "play-of-color"]
     }
   ]
 }

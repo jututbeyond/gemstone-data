@@ -1,6 +1,6 @@
 {
-  "schemaVersion": 1,
-  "updatedAt": "2026-09-11T21:45:00Z",
+  "schemaVersion": 2,
+  "updatedAt": "2026-09-25T21:33:08.7854169Z",
   "gemstones": [
     {
       "id": "amethyst",
@@ -22,6 +22,22 @@
     {
       "id": "ruby",
       "name": "Ruby",
+      "category": "Corundum",
+      "shortDescription": "The red variety of corundum, one of the most valuable colored gemstones.",
+      "colors": [
+        "Red",
+        "Pinkish Red"
+      ],
+      "thumbnailUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Corundum-215330.jpg/250px-Corundum-215330.jpg",
+      "tags": [
+        "birthstone",
+        "corundum-family",
+        "precious"
+      ]
+    },
+    {
+      "id": "ruby-copy",
+      "name": "Ruby (Copy)",
       "category": "Corundum",
       "shortDescription": "The red variety of corundum, one of the most valuable colored gemstones.",
       "colors": [

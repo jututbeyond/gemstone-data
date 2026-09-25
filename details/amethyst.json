@@ -1,5 +1,5 @@
 {
-  "schemaVersion": 1,
+  "schemaVersion": 2,
   "id": "amethyst",
   "description": "Amethyst is the violet-to-purple variety of quartz, colored by trace amounts of iron and natural irradiation within its crystal structure. Once considered as precious as ruby and sapphire, large deposits discovered in Brazil during the 19th century made it widely affordable while preserving its popularity as a birthstone and meditative stone.",
   "hardness": "7",
@@ -9,7 +9,7 @@
   ],
   "chemicalFormula": "SiO2",
   "crystalSystem": "Trigonal",
-  "refractiveIndex": "1.544–1.553",
+  "refractiveIndex": "1.544\u20131.553",
   "specificGravity": "2.65",
   "luster": "Vitreous",
   "transparency": "Transparent",
